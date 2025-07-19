@@ -3,6 +3,12 @@ How to Log Into Your SBCGlobal.net Email Account | Secure Access to Your Inbox
 
 Are you having trouble figuring out how to **Log Into Your SBCGlobal.net Email Account**? You're not alone. With the merger of SBCGlobal and AT&T, many users still face issues accessing their emails. Whether you're on a desktop, mobile device, or using an email client, this guide walks you through everything you need to know to securely and efficiently **Log Into Your SBCGlobal.net Email Account**.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://desksbcglobal.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Go with Sbcglobal Page</a>
+   </div>
+
 If you're trying to recover old messages, manage your inbox, or configure access on new devices, it’s important to follow the proper methods. This article will help you successfully **Log Into Your SBCGlobal.net Email Account**, troubleshoot common errors, and keep your email safe.
 
 Why Do Users Still Use SBCGlobal.net Emails?
